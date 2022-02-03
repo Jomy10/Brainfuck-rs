@@ -43,5 +43,7 @@ mklink bf \path\to\bf
 Feel free to open an issue if you have found a bug. Open a pull request if you can fix it as well. 
 Contributions are very welcome.
 
+Also, if you have any questions, feel free to open an issue.
+
 ## License
 [MIT license](LICENSE.txt)

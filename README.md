@@ -11,7 +11,7 @@ bf file.bf
 ```
 
 ## Download
-Download the interpreter [here](), or compile the compiler yourself 
+Download the interpreter [here](https://github.com/Jomy10/Brainfuck-rs/releases/tag/v0.1.0), or compile the compiler yourself 
 for your own system using `cargo build --release`.
 
 Then, either run it using `./bf`, or copy it to `/usr/local/bin` folder (or make a symlink).

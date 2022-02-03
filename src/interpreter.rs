@@ -1,7 +1,6 @@
 use crate::lexer::{Commands, Command};
 use std::io;
 use std::io::{ErrorKind, Read};
-use std::ops::Add;
 
 pub struct Interpreter<'a> {
     program: &'a Commands,

@@ -1,5 +1,7 @@
-![RustLogo](https://www.rust-lang.org/logos/rust-logo-128x128.png)
-<!--TODO: Add R -> BF-->
+<p align="center">
+  <img src="assets/logo.png" alt="BRAINFUCK"/>
+</p>
+
 # Rust Brainfuck interpreter
 
 A brainfuck interpreter written in Rust. Fast and simple.

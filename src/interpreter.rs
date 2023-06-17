@@ -41,7 +41,7 @@ impl<'a> Interpreter<'a> {
                     }
                 }
                 Command::Output => {
-                    let _ = write!(self.output, "{}", self.arr[self.pointer] as char);
+                    let _ = self.output.write(&[self.arr[self.pointer]]);
                 }
                 Command::Input => {
                     let mut buffer: [u8; 1] = [0];
